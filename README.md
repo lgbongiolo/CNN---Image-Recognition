@@ -18,13 +18,13 @@
 
 
 # Future implementations:
- - Add new categories
- - Add explanations  
+- Add new categories
+- Add explanations  
 
 
 ### Author - Luiz Gabriel Bongiolo
 
 ### References 
-  -Sentex Youtube Channel https://www.youtube.com/watch?v=j-3vuBynnOE&t=5s
-  -https://keras.io/api/layers/convolution_layers/convolution2d/
-  -Computer Science Youtube Channel https://www.youtube.com/watch?v=iGWbqhdjf2s
+- Sentex Youtube Channel https://www.youtube.com/watch?v=j-3vuBynnOE&t=5s
+- https://keras.io/api/layers/convolution_layers/convolution2d/
+- Computer Science Youtube Channel https://www.youtube.com/watch?v=iGWbqhdjf2s
